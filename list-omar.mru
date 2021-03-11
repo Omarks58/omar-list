@@ -83,4 +83,9 @@ http://5.9.30.198:2086/ASDFASDFGASFDASDFASDFGASFDASDFASDFGASFDASDFASDFGASFD/ASDF
 http://5.9.30.198:2086/ASDFASDFGASFDASDFASDFGASFDASDFASDFGASFDASDFASDFGASFD/ASDFASDFGASFDASDFASDFGASFDASDFASDFGASFDASDFASDFGASFD/352
 #EXTINF:-1 tvg-id="" tvg-name="Universal TV" tvg-logo="" group-title="SERIES",Universal TV
 http://5.9.30.198:2086/ASDFASDFGASFDASDFASDFGASFDASDFASDFGASFDASDFASDFGASFD/ASDFASDFGASFDASDFASDFGASFDASDFASDFGASFDASDFASDFGASFD/355
-#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="AVISO",PLUS DE REGRESO http://tvpremiumhd.club/lista-gratuita/privada1003/on/lives.php?id=rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8 #EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="AVISO",POCO A POCO A LA NORMALIDAD http://tvpremiumhd.club/lista-gratuita/privada1003/on/live.php?id=livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8 #EXTINF:-1 tvg-id="" tvg-name="24/7 Alf (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-5kK6RNlDNxo/XcsUbz6_QaI/AAAAAAAAA1w/UzftBLtHs1MIMfzokVQm9vPBeb8vwnatwCLcBGAsYHQ/s200/alf.png" group-title="24/7 INFANTIL",24/7 Alf (e)(SD) http://tv.plusxyz.com:8000/Demo25478/a1FnZIdI8G/37766
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="AVISO",PLUS DE REGRESO 
+http://tvpremiumhd.club/lista-gratuita/privada1003/on/lives.php?id=rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="AVISO",POCO A POCO A LA NORMALIDAD 
+http://tvpremiumhd.club/lista-gratuita/privada1003/on/live.php?id=livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Alf (e)(SD)" tvg-logo="https://1.bp.blogspot.com/-5kK6RNlDNxo/XcsUbz6_QaI/AAAAAAAAA1w/UzftBLtHs1MIMfzokVQm9vPBeb8vwnatwCLcBGAsYHQ/s200/alf.png" group-title="24/7 INFANTIL",24/7 Alf (e)(SD) 
+http://tv.plusxyz.com:8000/Demo25478/a1FnZIdI8G/37766
