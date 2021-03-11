@@ -83,19 +83,7 @@ http://5.9.30.198:2086/ASDFASDFGASFDASDFASDFGASFDASDFASDFGASFDASDFASDFGASFD/ASDF
 http://5.9.30.198:2086/ASDFASDFGASFDASDFASDFGASFDASDFASDFGASFDASDFASDFGASFD/ASDFASDFGASFDASDFASDFGASFDASDFASDFGASFDASDFASDFGASFD/352
 #EXTINF:-1 tvg-id="" tvg-name="Universal TV" tvg-logo="" group-title="SERIES",Universal TV
 http://5.9.30.198:2086/ASDFASDFGASFDASDFASDFGASFDASDFASDFGASFDASDFASDFGASFD/ASDFASDFGASFDASDFASDFGASFDASDFASDFGASFDASDFASDFGASFD/355
-#EXTINF:-1,FOX SPORT ( LATI) HD
-http://extremo.dyndns.ws:25461/live/lety/lety/2172.ts
-#EXTINF:-1,FOX SPORTS 2 ( LATI )
-http://extremo.dyndns.ws:25461/live/lety/lety/2173.ts
-#EXTINF:-1,HISTORY HD  LT
-http://extremo.dyndns.ws:25461/live/lety/lety/2178.ts
-#EXTINF:-1,CARTOON NETWORK HD
-http://extremo.dyndns.ws:25461/live/lety/lety/2359.ts
-#EXTINF:-1,TNT HD*
-http://extremo.dyndns.ws:25461/live/lety/lety/2344.ts
-#EXTINF:-1,TELEHIT HD
-http://extremo.dyndns.ws:25461/live/lety/lety/2552.ts
-#EXTINF:-1,FOX SPORT3 ( LATI ) HD
-http://extremo.dyndns.ws:25461/live/lety/lety/2579.ts
-#EXTINF:-1,ESPN  DEPORTES HD
-http://extremo.dyndns.ws:25461/live/lety/lety/2834.ts
+#EXTINF:-1 tvg-id="Telehit.mx" tvg-name="MUS-Telehit (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-OrPmulntCJo/XbEy645Q6FI/AAAAAAAAArc/l0P2pbedKPEjdXANgLb-WOA2OVz1fL8bgCLcBGAsYHQ/s200/7.png" group-title="CANALES-MUSICA",MUS-Telehit (M)(1080) http://tv.plusxyz.com:8000/Demo25478/a1FnZIdI8G/26940 
+#EXTINF:-1 tvg-id="TelehitHD.mx" tvg-name="MUS-Telehit (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-OrPmulntCJo/XbEy645Q6FI/AAAAAAAAArc/l0P2pbedKPEjdXANgLb-WOA2OVz1fL8bgCLcBGAsYHQ/s200/7.png" group-title="CANALES-MUSICA",MUS-Telehit (M)(SD) http://tv.plusxyz.com:8000/Demo25478/a1FnZIdI8G/26937 
+#EXTINF:-1 tvg-id="TelehitHD.mx" tvg-name="MUS-Telehit Plus(M)(1080)" tvg-logo="https://1.bp.blogspot.com/-r58If3yVwgA/XbEy3UkpKfI/AAAAAAAAAqw/N22tzz6q9_YYsj2lv57aa67zf8sUVv27wCLcBGAsYHQ/s200/13.png" group-title="CANALES-MUSICA",MUS-Telehit Plus(M)(1080) http://tv.plusxyz.com:8000/Demo25478/a1FnZIdI8G/1315 
+#EXTINF:-1 tvg-id="Telehit.mx" tvg-name="MUS-Telehit(M)(SD)" tvg-logo="https://1.bp.blogspot.com/-OrPmulntCJo/XbEy645Q6FI/AAAAAAAAArc/l0P2pbedKPEjdXANgLb-WOA2OVz1fL8bgCLcBGAsYHQ/s200/7.png" group-title="CANALES-MUSICA",MUS-Telehit(M)(SD) http://tv.plusxyz.com:8000/Demo25478/a1FnZIdI8G/1318
